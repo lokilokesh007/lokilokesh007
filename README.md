@@ -10,7 +10,7 @@ Welcome to my GitHub profile, where I showcase my skills, projects, and what I'm
 - 🤖 Passionate about problem-solving and coding
 
 ## ⚡ Skills
-- Programming Languages: C, C++, Java, Python, JavaScript
+- Programming Languages: Python, C, R, Java, JavaScript
 - Web Development: HTML, CSS, JavaScript, React, Node.js
 - Databases: MySQL, MongoDB
 - Version Control: Git & GitHub
@@ -26,8 +26,8 @@ Welcome to my GitHub profile, where I showcase my skills, projects, and what I'm
 
 ## 📫 How to reach me
 - Gmail: lokeshv2403@gmail.com
-- LinkedIn: [Your LinkedIn Profile](#)
-- Twitter: [Your Twitter Profile](#)
+- LinkedIn: (https://www.linkedin.com/in/lokesh-v-13873a284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)(#)
+- Twitter: (https://x.com/me_lokesh07?t=CshhiQSL5Fh_IjAsVwCBMQ&s=09)(#)
 
 ---
 
