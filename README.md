@@ -29,7 +29,7 @@ o	Designed and optimized a responsive UI using HTML5, CSS3, and JavaScript, enha
  o	Developed and fine-tuned a logistic regression model for fake news detection, achieving 98% accuracy.
 o	Enhanced data quality by 38% through missing value handling and categorical variable encoding, ensuring data integrity.
 o	Conducted experiments with classification and regression algorithms, optimizing model selection for prediction tasks.
- https://github.com/lokilokesh007/Fake-News-Prediction.git(#)
+ https://github.com/lokilokesh007/Fake-News-Prediction.git
 
 ## 📫 How to reach me
 - Gmail: lokeshv2403@gmail.com
