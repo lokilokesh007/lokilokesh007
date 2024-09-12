@@ -20,14 +20,21 @@ Welcome to my GitHub profile, where I showcase my skills, projects, and what I'm
 ![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 ## 🌟 Projects
-1. **Project Name 1**: A brief description of your project. [Link to the project repository](#)
-2. **Project Name 2**: A brief description of your project. [Link to the project repository](#)
-3. **Project Name 3**: A brief description of your project. [Link to the project repository](#)
+1. **Bank Management System**:
+o	Engineered a full-stack banking web app using Django, supporting account creation, user authentication, and fictitious money transfers.
+o	Integrated Django ORM for seamless CRUD operations and implemented SQLite for efficient database management.
+o	Designed and optimized a responsive UI using HTML5, CSS3, and JavaScript, enhancing user experience.
+. [Link to the project repository](#)
+2. **Fraud News Prediction through Machine Learning**:
+ o	Developed and fine-tuned a logistic regression model for fake news detection, achieving 98% accuracy.
+o	Enhanced data quality by 38% through missing value handling and categorical variable encoding, ensuring data integrity.
+o	Conducted experiments with classification and regression algorithms, optimizing model selection for prediction tasks.
+ [Link to the project repository](#)
 
 ## 📫 How to reach me
 - Gmail: lokeshv2403@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/lokesh-v-13873a284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)(#)
-- Twitter: (https://x.com/me_lokesh07?t=CshhiQSL5Fh_IjAsVwCBMQ&s=09)(#)
+- LinkedIn: (https://www.linkedin.com/in/lokeshv )
+- Twitter: https://github.com/Lokesh007
 
 ---
 
